@@ -90,9 +90,6 @@ Three 5,000 N (500 kg) loading scenarios—**Center**, **Front-Heavy**, and **Re
 | **Final Design — Center Load** | 48.42 MPa | **0.281 mm** | **1.78** |
 | **Final Design — Off-Center (Front/Rear)** | 63.48 MPa | **0.203 mm** | > 1.78 |
 
-<p align="center">
-  <img src="Media/fea-stress-deformation.png" alt="ANSYS Static Structural Stress and Deformation Results" width="85%" />
-</p>
 
 ### Differential Drive Kinematics
 With wheel radius $r = 0.26\text{ m}$ and track width $s$, wheel angular velocities $(\dot{\phi}_L, \dot{\phi}_R)$ map to global robot pose rates $(\dot{x}, \dot{y}, \dot{\theta})$ via:
